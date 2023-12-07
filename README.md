@@ -14,3 +14,28 @@ Here are the strategies I used to minimize loss:
 I built a small SwiftUI iOS app, which I believe requires Xcode to run. Here are some simulations that I ran in case you don't have Xcode installed.
 
 Here are some simulations that I ran:
+
+
+https://github.com/ira2101/Package-Management-System/assets/54328228/03ab559f-e856-4238-9520-0dd6fd692f5b
+
+
+
+https://github.com/ira2101/Package-Management-System/assets/54328228/43f558d6-37ba-481d-9c15-fa29c1380b46
+
+
+
+https://github.com/ira2101/Package-Management-System/assets/54328228/1c95925f-e03e-4a25-b282-50731154a307
+
+
+
+https://github.com/ira2101/Package-Management-System/assets/54328228/bd2bd3f1-f582-4d56-aea0-8d593a3cffa7
+
+
+
+https://github.com/ira2101/Package-Management-System/assets/54328228/d01289df-91f6-487a-bcaa-3a3745f494ff
+
+
+
+https://github.com/ira2101/Package-Management-System/assets/54328228/f4190aa6-894d-432c-8ff0-8a1ddd6bad37
+
+
