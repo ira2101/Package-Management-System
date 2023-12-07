@@ -16,25 +16,25 @@ I built a small SwiftUI iOS app, which I believe requires Xcode to run. Here are
 Here are some simulations that I ran:
 
 
-https://github.com/ira2101/Package-Management-System/assets/54328228/66b1d404-6b92-4ede-93c3-bb84195c1357
+https://github.com/ira2101/Package-Management-System/assets/54328228/daad0499-b590-4c61-9219-e6a5ef55e99a
 
 
 
-https://github.com/ira2101/Package-Management-System/assets/54328228/d33a59d7-e8a0-4bc5-90a1-e661b60819f8
+https://github.com/ira2101/Package-Management-System/assets/54328228/49000308-9278-4005-9fe6-36a84c570763
 
 
 
-https://github.com/ira2101/Package-Management-System/assets/54328228/f346c749-d4cf-4892-9600-8e179bf014cc
+https://github.com/ira2101/Package-Management-System/assets/54328228/35ac63fd-4619-4de7-95ac-74c640647e89
 
 
 
-https://github.com/ira2101/Package-Management-System/assets/54328228/e4c9a8d9-e566-4d40-bbaa-280f62d50b2e
+https://github.com/ira2101/Package-Management-System/assets/54328228/af0c689e-2eee-4644-bce4-43844dd79c05
 
 
 
-https://github.com/ira2101/Package-Management-System/assets/54328228/1e2a854b-7258-4629-9327-07855259efaf
+https://github.com/ira2101/Package-Management-System/assets/54328228/1a4ec924-fa60-4568-be67-12e84f8e8d11
 
 
 
-https://github.com/ira2101/Package-Management-System/assets/54328228/bf43229d-df6a-4c21-9e59-4a19b1c43f01
+https://github.com/ira2101/Package-Management-System/assets/54328228/1cb04f55-09ee-484a-8813-bdc715ad6184
 
