@@ -3,7 +3,7 @@
 The main goal of this assignment was to design a system to maximize employee utilization while minimizing the probability of loss.
 
 First, I created a pipeline that the package will work through until it is shipped.
-[ONBOARDING.pdf](https://github.com/ira2101/Package-Management-System/files/13606346/ONBOARDING.pdf)
+[Package_Management_System.pdf](https://github.com/ira2101/Package-Management-System/files/13606346/ONBOARDING.pdf)
 
 Here are the strategies I used to minimize loss:
 1. First, every employee in the facility is assigned to a role. These roles are categorized as presorter, onboarder, and shipper. After an employee is assigned to a role, they are also assigned to a zone within that role. The idea with this was to limit the number of different things an employee sees in their role. This way employees are only doing tasks that they are familiar with and that they know how to complete successfully.
